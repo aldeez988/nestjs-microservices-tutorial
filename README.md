@@ -1,2 +1,1 @@
-# Packages need to be installed
-- npm i @nestjs/microservices nats
+# nestjs-microservices-tutorial
